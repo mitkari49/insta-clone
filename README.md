@@ -1,0 +1,1 @@
+This project is a frontend clone of the popular social media platform Instagram. It aims to replicate the main features and layout of Instagram's web application using HTML and CSS. While it doesn't have backend functionality or database integration, it provides a visually similar experience to the Instagram web app.
